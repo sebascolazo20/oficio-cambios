@@ -1,0 +1,120 @@
+{
+  "Cursos": [
+    {
+      "id": 2,
+      "nombre": "Curso de Electricidad Básica",
+      "imagen": "electricista.jpg",
+      "categoriaIds": [2],
+      "duracion": "10 semanas",
+      "cargaHoraria": "40 horas",
+      "diasHorarios": "Miercoles y Viernes 18:00 - 20:00",
+      "inicio": "22/03/2025",
+      "lugar": "Aula 2, Escuela de Oficios",
+      "descripcion": "Formación en la instalación y mantenimiento de sistemas eléctricos residenciaes e industriales.",
+      "logros": [
+        "Certificado de finalización",
+        "Instalación de circuitos eléctricos básicos"
+      ],
+      "requisitos": [
+        "Conocimientos básicos en electricidad",
+        "Interés por aprender sobre electricidad"
+      ],
+      "profesor": {
+        "nombre": "Juan Pérez",
+        "foto": "Profe1.jpg",
+        "profesion": "Ingeniero Electrico"
+      },
+      "organizaciones":[
+        "logo1.png",
+        "logo2.png"
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "Curso de Filosofia",
+      "imagen": "filosofia.jpg",
+      "categoriaIds": [2],
+      "duracion": "10 semanas",
+      "cargaHoraria": "40 horas",
+      "diasHorarios": "Sábados 9:00 - 13:00",
+      "inicio": "13/04/2025",
+      "lugar": "Aula 2, Escuela de Oficios",
+      "descripcion": "Un recorrido por las principales corrientes filosóficas, abordando conceptos clave del pensamiento crítico y la ética.",
+      "logros": [
+        "Certificado de finalización",
+        "Desarrolo del pensamiento crítico"
+      ],
+      "requisitos": [
+        "Interés por aprender sobre filosofia"
+      ],
+      "profesor": {
+        "nombre": "Juan Pérez",
+        "foto": "Profe1.jpg",
+        "profesion":"Profesor de filosofia"
+      },
+      "organizaciones":[
+        "logo1.png",
+        "logo2.png"
+      ]
+    },
+    {
+      "id": 8,
+      "nombre": "Curso de Reparación de Aires Acondicionados",
+      "imagen": "AireAcondicionado.jpg",
+      "categoriaIds": [2],
+      "duracion": "12 semanas",
+      "cargaHoraria": "48 horas",
+      "diasHorarios": "Martes y Jueves 10:00 - 12:00",
+      "inicio": "15/04/2025",
+      "lugar": "Aula 2, Escuela de Oficios",
+      "descripcion": "Capacitación en la instalación, mantenimiento y reparación de equipos de aire acondicionado domésticos y comerciales.",
+      "logros": [
+        "Certificado de finalización",
+        "Mantenimiento preventivo y correctivo"
+        
+      ],
+      "requisitos": [
+        "Conocimiento básico de electricidad",
+        "Interés por aprender a reparar aires acondicionados"
+      ],
+      "profesor": {
+        "nombre": "Juan Pérez",
+        "foto": "Profe1.jpg",
+        "profesion":"Ingeniero Mecanico"
+      },
+      "organizaciones":[
+        "logo1.png",
+        "logo2.png"
+      ]
+    },
+    {
+      "id": 9,
+      "nombre": "Curso de Carpinteria",
+      "imagen": "Carpinteria.jpg",
+      "categoriaIds": [2],
+      "duracion": "16 semanas",
+      "cargaHoraria": "64 horas",
+      "diasHorarios": "Martes y Jueves 15:00 - 17:00",
+      "inicio": "15/04/2025",
+      "lugar": "Aula 2, Escuela de Oficios",
+      "descripcion": "Capacitación práctica en el uso de herramientas manuales y eléctricas para la frabricación de muebles y estructuras de madera.",
+      "logros": [
+        "Certificado de finalización",
+        "Una Mesita fabricada en el curso"
+      ],
+      "requisitos": [
+        "Conocimiento básico de en manejo de herramientas",
+        "Interés por la carpinteria"
+      ],
+      "profesor": {
+        "nombre": "Juan Pérez",
+        "foto": "Profe1.jpg",
+        "profesion":"Carpintero"
+      },
+      "organizaciones":[
+        "logo1.png",
+        "logo2.png"
+      ]
+    }
+  ]
+}
