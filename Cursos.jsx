@@ -92,7 +92,7 @@ function Cursos() {
                                     ))}
                                 </ul>
                                 
-                                {/* Sección del profesor modificada */}
+                                {/* Sección del profesor  */}
                                 {cursoSeleccionado.profesor && (
                                     <div className="profesor-info">
                                         <h3>Profesor:</h3>

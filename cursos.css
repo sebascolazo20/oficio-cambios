@@ -277,7 +277,7 @@ body {
   color: #333;
 }
 
-/* Nuevos estilos para la profesión del profesor */
+/*  estilos para la profesión del profesor */
 .profesor-datos {
   display: flex;
   flex-direction: column;
@@ -308,7 +308,7 @@ body {
   object-fit: contain;
 }
 
-/* Nuevo estilo para el mensaje de disponibilidad */
+/* mensaje de disponibilidad */
 .disponibilidad-mensaje {
   margin-top: 20px;
   padding: 15px 20px;
